@@ -5,6 +5,9 @@
 - GitHub: [github.com/marik98](https://github.com/marik98)
 - Discord: marik08848
 
+## Образование
+- BSU Belarus
+
 ## О себе
 Начинающий frontend-разработчик. Изучаю JavaScript, HTML, CSS и Git. Хочу развиваться в веб-разработке, разрабатывать полезные приложения, участвовать в интересных проектах.
 
