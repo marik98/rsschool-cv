@@ -1,15 +1,12 @@
-# kashuba maryna
+# Kashuba Maryna
 
 ## Контакты
 - Email: markash2019@gmail.com
-- GitHub:(https://github.com/marik98)
+- GitHub: [github.com/marik98](https://github.com/marik98)
 - Discord: marik08848
-- Telegram:-
 
 ## О себе
-Начинающий frontend-разработчик. Изучаю JavaScript, HTML, CSS и Git.  
-Хочу развиваться в веб-разработке, разрабатывать полезные приложения,
-участвовать в интересных проектах.
+Начинающий frontend-разработчик. Изучаю JavaScript, HTML, CSS и Git. Хочу развиваться в веб-разработке, разрабатывать полезные приложения, участвовать в интересных проектах.
 
 ## Навыки
 - Языки: JavaScript, HTML, CSS
@@ -24,3 +21,5 @@
 function evenOrOdd(number) {
   return number % 2 === 0 ? "Even" : "Odd";
 }
+
+
